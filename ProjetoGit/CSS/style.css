@@ -92,6 +92,7 @@ input{
 }
 input#date{
 	width: 138px;
+	margin-bottom: 5px;
 }
 input#quantity{
 	width: 30px;
